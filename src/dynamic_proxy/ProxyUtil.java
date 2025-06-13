@@ -1,7 +1,3 @@
-/**
- * @author hands
- * @date 2025/5/10 23:04
- */
 package dynamic_proxy;
 
 import java.lang.reflect.InvocationHandler;

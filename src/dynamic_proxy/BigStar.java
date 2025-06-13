@@ -1,7 +1,3 @@
-/**
- * @author hands
- * @date 2025/5/10 22:53
- */
 package dynamic_proxy;
 
 public class BigStar implements Star{

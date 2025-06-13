@@ -1,7 +1,3 @@
-/**
- * @author hands
- * @date 2025/5/10 23:35
- */
 package dynamic_proxy;
 
 public class TestMain {
