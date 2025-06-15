@@ -17,8 +17,8 @@ public class MyReflectDemo1 {
         System.out.println(clazz2);
 
         //3.第三种方式 对象.getClass()
-        Student s = new Student();
-        Class clazz3 = s.getClass();
+        Student student = new Student();
+        Class clazz3 = student.getClass();
         System.out.println(clazz3);
 
         //比较三种方式获取的Class对象是否相同
