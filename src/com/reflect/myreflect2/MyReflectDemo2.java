@@ -66,5 +66,6 @@ public class MyReflectDemo2 {
         con5.setAccessible(true); //暴力反射 临时取消权限校验私有的构造方法需要设置可访问
         Student stu2 = (Student) con5.newInstance("李四", 20);
         System.out.println("使用有参构造方法创建的对象：" + stu2);
+
     }
 }
