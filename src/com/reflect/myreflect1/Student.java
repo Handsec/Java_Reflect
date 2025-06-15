@@ -1,7 +1,3 @@
-/**
- * @author hands
- * @date 2025/6/13 13:43
- */
 package com.reflect.myreflect1;
 
 public class Student {
